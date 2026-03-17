@@ -26,4 +26,4 @@ claude plugin install superdevflow@ykdojo
 
 ## Origin
 
-Originally featured in [45 Claude Code Tips](https://github.com/ykdojo/claude-code-tips).
+Originally part of [45 Claude Code Tips](https://github.com/ykdojo/claude-code-tips).
